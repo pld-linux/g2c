@@ -27,7 +27,7 @@ code output mechanism.
 %description -l pl
 Program g2c konwertuje drzewko Glade XML do kodu ¼ród³owego C.
 
-Glade dostarcza wyj¶cie ¼ród³e³ C do zestawu monolitycznych plików.
+Glade daje na wyj¶ciu ¼ród³o w C do zestawu monolitycznych plików.
 Wszystkie widgety sa umieszczone w jednym pliku, który mo¿e byæ trudny
 do zarz±dzania w du¿ych projektach. Celem tego projektu jest
 dostarczenie alternetywnego mechanizmu dla wyj¶cia kodu ¼ród³owego.
