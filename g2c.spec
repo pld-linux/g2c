@@ -6,6 +6,7 @@ Release:	1
 License:	GPL v2
 Group:		Development/Tools
 Source0:	http://telia.dl.sourceforge.net/sourceforge/g2c/%{name}-%{version}.tar.gz
+# Source0-md5:	29f8e1a9f7eb615864bf1971ff85c8eb
 Patch0:		%{name}-dirty_xml.patch
 URL:		http://www.sourceforge.net/projects/g2c/
 BuildRequires:	autoconf
