@@ -1,0 +1,8 @@
+--- ./src/Makefile.am.org	Tue Apr 24 07:19:02 2001
++++ ./src/Makefile.am	Sun May 12 02:44:04 2002
+@@ -17,4 +17,4 @@
+ 	g2c_accel.c g2c_accel.h \
+ 	am_handler.c am_handler.h
+ 
+-g2c_LDADD = $(GNOME_LIBDIR) $(GNOMEUI_LIBS) $(INTLLIBS) 
++g2c_LDADD = $(GNOME_LIBDIR) $(GNOMEUI_LIBS) $(INTLLIBS) -lxml 
