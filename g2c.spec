@@ -39,7 +39,7 @@ dostarczenie alternetywnego mechanizmu dla wyj¶cia kodu ¼ród³owego.
 %build
 rm -f missing
 aclocal -I macros
-autoconf
+%{__autoconf}
 automake -a -c
 %configure
 %{__make}
