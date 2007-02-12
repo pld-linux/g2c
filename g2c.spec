@@ -1,5 +1,5 @@
 Summary:	g2c - Glade to C Translator
-Summary(pl):	g2c - translator z Glade do C
+Summary(pl.UTF-8):   g2c - translator z Glade do C
 Name:		g2c
 Version:	0.4
 Release:	1
@@ -25,13 +25,13 @@ widgets are placed into one file, which can be difficult to manage on
 large projects. This project aims to provide an alternative source
 code output mechanism.
 
-%description -l pl
-Program g2c konwertuje drzewko Glade XML do kodu ºrÛd≥owego C.
+%description -l pl.UTF-8
+Program g2c konwertuje drzewko Glade XML do kodu ≈∫r√≥d≈Çowego C.
 
-Glade daje na wyj∂ciu ºrÛd≥o w C do zestawu monolitycznych plikÛw.
-Wszystkie widgety s± umieszczone w jednym pliku, ktÛry moøe byÊ trudny
-do zarz±dzania w duøych projektach. Celem tego projektu jest
-dostarczenie alternatywnego mechanizmu dla wyj∂cia kodu ºrÛd≥owego.
+Glade daje na wyj≈õciu ≈∫r√≥d≈Ço w C do zestawu monolitycznych plik√≥w.
+Wszystkie widgety sƒÖ umieszczone w jednym pliku, kt√≥ry mo≈ºe byƒá trudny
+do zarzƒÖdzania w du≈ºych projektach. Celem tego projektu jest
+dostarczenie alternatywnego mechanizmu dla wyj≈õcia kodu ≈∫r√≥d≈Çowego.
 
 %prep
 %setup -q
