@@ -1,5 +1,5 @@
 Summary:	g2c - Glade to C Translator
-Summary(pl.UTF-8):   g2c - translator z Glade do C
+Summary(pl.UTF-8):	g2c - translator z Glade do C
 Name:		g2c
 Version:	0.4
 Release:	1
